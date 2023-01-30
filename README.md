@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL:(https://github.com/perfetimperfect24/baseapparel-coming-soon-master)
+- Live Site URL:(https://perfetimperfect24.github.io/baseapparel-coming-soon-master/)
 
 ## My process
 
